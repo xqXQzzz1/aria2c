@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "taskkill /IM aria2c.exe /F /T",1
